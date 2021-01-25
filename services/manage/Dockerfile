@@ -1,4 +1,4 @@
-FROM danlynn/ember-cli:3.9.0 as ember
+FROM danlynn/ember-cli:3.14.0 as ember
 WORKDIR /identity-x
 
 ADD package.json yarn.lock /identity-x/

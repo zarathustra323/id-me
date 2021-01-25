@@ -1,4 +1,4 @@
-FROM node:14.15-alpine
+FROM node:12.13
 WORKDIR /identity-x
 ENV NODE_ENV production
 ARG SERVICE
