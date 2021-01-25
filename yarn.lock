@@ -710,10 +710,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@base-cms/env@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@base-cms/env/-/env-1.0.0.tgz#175c8ab6c4b5a182f4431f4496e9e99e0679c756"
-  integrity sha512-s1c2rUA8kY7596Ni10RBgBuO0haLchijIzaD8Fp+hDBBClEz+JOC51mcoWhQk11A94ZKDMV7ovJ8eKaQtA7Lhw==
+"@base-cms/env@^1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@base-cms/env/-/env-1.37.0.tgz#43fbf290f6e73fc5d8442dba606818c1b500d936"
+  integrity sha512-wO814Q8QX8iL/s52ACHa+C0uSVQEP2Legc0U7ctkJnlgOTW/+pxneMp/oCyZpQijknr6ktqEaaHW65uPUasaow==
   dependencies:
     envalid "^5.0.0"
     validator "^11.0.0"

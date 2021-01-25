@@ -13,7 +13,7 @@
     "test": "yarn lint"
   },
   "dependencies": {
-    "@base-cms/env": "^1.0.0",
+    "@base-cms/env": "^1.37.0",
     "@base-cms/micro": "^1.37.0",
     "@identity-x/utils": "^0.13.0",
     "jsonwebtoken": "^8.5.1",

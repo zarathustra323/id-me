@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@base-cms/env": "^1.0.0",
+    "@base-cms/env": "^1.37.0",
     "@base-cms/micro": "^1.37.0",
     "micro": "^9.3.4"
   },
