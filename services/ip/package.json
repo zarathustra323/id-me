@@ -15,7 +15,7 @@
   "dependencies": {
     "@base-cms/env": "^1.37.0",
     "@base-cms/micro": "^1.37.0",
-    "ip6addr": "^0.2.2",
+    "ip6addr": "^0.2.3",
     "micro": "^9.3.4",
     "newrelic": "^6.14.0"
   },
@@ -23,7 +23,7 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.22.1",
-    "glob": "^7.0.0",
+    "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "gulp-cached": "^1.1.1",
     "gulp-eslint": "^5.0.0"
