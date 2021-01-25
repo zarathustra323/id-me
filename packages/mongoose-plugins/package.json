@@ -10,7 +10,7 @@
   "dependencies": {
     "@identity-x/pagination": "^0.13.0",
     "@identity-x/utils": "^0.13.0",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.11.13",
     "validator": "^11.0.0"
   },
   "devDependencies": {

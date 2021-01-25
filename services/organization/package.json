@@ -19,7 +19,7 @@
     "@identity-x/mongoose-plugins": "^0.13.0",
     "@identity-x/utils": "^0.13.0",
     "micro": "^9.3.4",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.11.13",
     "newrelic": "^6.4.0",
     "validator": "^11.0.0"
   },
