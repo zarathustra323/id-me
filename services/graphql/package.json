@@ -14,7 +14,7 @@
   "dependencies": {
     "@base-cms/env": "^1.37.0",
     "@base-cms/object-path": "^1.37.0",
-    "@base-cms/utils": "^1.9.0",
+    "@base-cms/utils": "^1.37.0",
     "@godaddy/terminus": "^4.2.0",
     "@identity-x/service-clients": "^0.13.0",
     "apollo-newrelic-extension": "^0.1.1",
