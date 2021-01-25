@@ -718,14 +718,22 @@
     envalid "^5.0.0"
     validator "^11.0.0"
 
-"@base-cms/micro@^1.21.5":
-  version "1.21.5"
-  resolved "https://registry.yarnpkg.com/@base-cms/micro/-/micro-1.21.5.tgz#2e8913e9c2faa0f8a3168352fa3856d70241000b"
-  integrity sha512-DLWN9f2oP653Rt3OKzNgDk2KeqFEEqtCE+oW7WdKp1ifipm9OEQjTbExkEiAcgyX4aFqHA/2pXXTjsMrfWZzOA==
+"@base-cms/micro@^1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@base-cms/micro/-/micro-1.37.0.tgz#0131e19b2588b44879c7d603d08921fea3459fc8"
+  integrity sha512-WuyGY2XCkkOzZ1mVPJXtORs4a8qXg8s/rr/7JXJFfih4HYcKkesalaI0WiwU1npoihajUk5+VkMLSPVDIO7+0w==
   dependencies:
-    "@base-cms/object-path" "^1.9.0"
+    "@base-cms/object-path" "^1.37.0"
     "@godaddy/terminus" "^4.2.0"
-    node-fetch "^2.6.0"
+    node-fetch "^2.6.1"
+
+"@base-cms/object-path@^1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@base-cms/object-path/-/object-path-1.37.0.tgz#3cd3cfc0c619741e233cb9dfdee324a9d578de32"
+  integrity sha512-wMemkkTZRoBBiv8g3mgGH7bB288ekM3mRuyx4au5xvwtR3CXBp05fjuqldpMxVZ5Zv6vDfrkUXvI8JOkpSK17g==
+  dependencies:
+    "@base-cms/utils" "^1.37.0"
+    object-path "^0.11.4"
 
 "@base-cms/object-path@^1.9.0":
   version "1.9.0"
@@ -734,6 +742,11 @@
   dependencies:
     "@base-cms/utils" "^1.9.0"
     object-path "^0.11.4"
+
+"@base-cms/utils@^1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@base-cms/utils/-/utils-1.37.0.tgz#c2ac887615b9b5007bae6d6fae102bff3662b706"
+  integrity sha512-YVNnlziwb/MdSjt8oywqgXmCwmK/7y3V8niF0GxWYggqLPHRqWWI5ZKO/lq3ZaBv6szSxqfNS/b+B3MNfj1h3Q==
 
 "@base-cms/utils@^1.9.0":
   version "1.9.0"
@@ -10752,7 +10765,7 @@ node-fetch-npm@^2.0.2:
     json-parse-better-errors "^1.0.0"
     safe-buffer "^5.1.1"
 
-node-fetch@^2.1.2, node-fetch@^2.2.0, node-fetch@^2.3.0, node-fetch@^2.6.0:
+node-fetch@^2.1.2, node-fetch@^2.2.0, node-fetch@^2.3.0, node-fetch@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
