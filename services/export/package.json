@@ -15,7 +15,7 @@
   "dependencies": {
     "@base-cms/env": "^1.37.0",
     "@base-cms/micro": "^1.37.0",
-    "@base-cms/object-path": "^1.9.0",
+    "@base-cms/object-path": "^1.37.0",
     "@identity-x/service-clients": "^0.13.0",
     "aws-sdk": "^2.610.0",
     "json2csv": "^4.5.4",

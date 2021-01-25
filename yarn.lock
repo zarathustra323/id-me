@@ -735,14 +735,6 @@
     "@base-cms/utils" "^1.37.0"
     object-path "^0.11.4"
 
-"@base-cms/object-path@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@base-cms/object-path/-/object-path-1.9.0.tgz#a779d922bad3a77ee96a37ef5eb8a76c21a87fef"
-  integrity sha512-a+dJfyd+/d8ywzdJiqex+XVfCbRWOTWrz/IR6k2ikMRf5hNN0ZZ33CNb7WthNd003af3IeJTEWzz9YYXKod1kA==
-  dependencies:
-    "@base-cms/utils" "^1.9.0"
-    object-path "^0.11.4"
-
 "@base-cms/utils@^1.37.0":
   version "1.37.0"
   resolved "https://registry.yarnpkg.com/@base-cms/utils/-/utils-1.37.0.tgz#c2ac887615b9b5007bae6d6fae102bff3662b706"
